@@ -1,0 +1,78 @@
+Menu:
+0. Print menu.
+1. Enter the first complex number.
+2. Enter the second complex number.
+3. Print the first and second numbers.
+4. Addition of the first and second numbers.
+5. Subtract the second number from the first.
+6. Multiply the first number by the second.
+7. Divide the first number by the second.
+8. Compare the first number with the second.
+9. Print the conjugate of the first number.
+10. Compare the modules of the first and second numbers.
+11. Quit the program.
+Choose option: 0
+Menu:
+0. Print menu.
+1. Enter the first complex number.
+2. Enter the second complex number.
+3. Print the first and second numbers.
+4. Addition of the first and second numbers.
+5. Subtract the second number from the first.
+6. Multiply the first number by the second.
+7. Divide the first number by the second.
+8. Compare the first number with the second.
+9. Print the conjugate of the first number.
+10. Compare the modules of the first and second numbers.
+11. Quit the program.
+Choose option: 3
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 4
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 5
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 6
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 7
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 8
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 9
+Error: first number not entered.
+Choose option: 10
+Error: first number not entered.
+Error: second number not entered.
+Choose option: 12
+Error: incorrect input.
+Choose option: 1
+Enter real part: 2
+Enter imaginary part: 2
+Choose option: 3
+First number: (2, 2).
+Error: second number not entered.
+Choose option: 4
+Error: second number not entered.
+Choose option: 5
+Error: second number not entered.
+Choose option: 6
+Error: second number not entered.
+Choose option: 7
+Error: second number not entered.
+Choose option: 8
+Error: second number not entered.
+Choose option: 9
+Result: (2, -2).
+Choose option: 10
+Error: second number not entered.
+Choose option: 2
+Enter real part: 0
+Enter imaginary part: 0
+Choose option: 7
+Error: division by zero.
+Choose option: 11
